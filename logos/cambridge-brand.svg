@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-label="Cambridge logo">
+  <rect width="520" height="150" fill="none"/>
+  <g fill="#8b1538">
+    <path d="M70 18h70v84c0 18-15 32-35 32s-35-14-35-32z"/>
+    <path d="M82 31h46v67c0 13-10 23-23 23s-23-10-23-23z" fill="#fff"/>
+    <path d="M92 43h26v56c0 8-6 14-13 14s-13-6-13-14z"/>
+  </g>
+  <text x="165" y="67" fill="#1b2f4a" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Cambridge</text>
+  <text x="167" y="105" fill="#526174" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1">International Education</text>
+</svg>
